@@ -1,4 +1,4 @@
-cask 'neovim-0.10' do
+cask 'neovim-previous' do
   arch arm:   "arm64",
        intel: "x86_64"
 
